@@ -20,4 +20,4 @@ The Assignment Contains questions on Binary Classification, Multi-Class Classifi
 
 ***
 
-<p align='center'>Created with :heart: by <a href="https://github.com/tayalmanan28">Manan Tayal</a>, <a href="https://github.com/backpropagator">Piyush Tiwary</a>, <a href="https://github.com/foxhound97">Alokendu Mazumder</a> & <a href="https://github.com/Saurabh224">Saurabh Shrivastava</a>  </p>
+<p align='center'>Created with :heart: by <a href="https://github.com/tayalmanan28">Manan Tayal</a>, <a href="https://github.com/backpropagator">Piyush Tiwary</a>, <a href="https://github.com/alokendumazumder">Alokendu Mazumder</a> & <a href="https://github.com/Saurabh224">Saurabh Shrivastava</a>  </p>
